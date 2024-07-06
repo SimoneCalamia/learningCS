@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AovHLj9miFoxb8YnFMPE7pMwyx3hYxBtKTX3jhpOGOZvp9yoyQGIhaF0j3qX5+LYQbnFPJfQlrAwD0wlTQ1hSA==",
+  "success": true,
+  "projectFilePath": "/home/simone/projects/learningCS/main-method/main-method.csproj",
+  "expectedPackageFiles": [
+    "/home/simone/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.6/microsoft.aspnetcore.app.ref.8.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}

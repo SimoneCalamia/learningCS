@@ -1,0 +1,14 @@
+/home/simone/projects/learningCS/main-method/bin/Debug/net8.0/main-method
+/home/simone/projects/learningCS/main-method/bin/Debug/net8.0/main-method.deps.json
+/home/simone/projects/learningCS/main-method/bin/Debug/net8.0/main-method.runtimeconfig.json
+/home/simone/projects/learningCS/main-method/bin/Debug/net8.0/main-method.dll
+/home/simone/projects/learningCS/main-method/bin/Debug/net8.0/main-method.pdb
+/home/simone/projects/learningCS/main-method/obj/Debug/net8.0/main-method.GeneratedMSBuildEditorConfig.editorconfig
+/home/simone/projects/learningCS/main-method/obj/Debug/net8.0/main-method.AssemblyInfoInputs.cache
+/home/simone/projects/learningCS/main-method/obj/Debug/net8.0/main-method.AssemblyInfo.cs
+/home/simone/projects/learningCS/main-method/obj/Debug/net8.0/main-method.csproj.CoreCompileInputs.cache
+/home/simone/projects/learningCS/main-method/obj/Debug/net8.0/main-method.dll
+/home/simone/projects/learningCS/main-method/obj/Debug/net8.0/refint/main-method.dll
+/home/simone/projects/learningCS/main-method/obj/Debug/net8.0/main-method.pdb
+/home/simone/projects/learningCS/main-method/obj/Debug/net8.0/main-method.genruntimeconfig.cache
+/home/simone/projects/learningCS/main-method/obj/Debug/net8.0/ref/main-method.dll
