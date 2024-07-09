@@ -1,0 +1,15 @@
+/home/simone/projects/learningCS/type-system/bin/Debug/net8.0/type-system
+/home/simone/projects/learningCS/type-system/bin/Debug/net8.0/type-system.deps.json
+/home/simone/projects/learningCS/type-system/bin/Debug/net8.0/type-system.runtimeconfig.json
+/home/simone/projects/learningCS/type-system/bin/Debug/net8.0/type-system.dll
+/home/simone/projects/learningCS/type-system/bin/Debug/net8.0/type-system.pdb
+/home/simone/projects/learningCS/type-system/obj/Debug/net8.0/type-system.GeneratedMSBuildEditorConfig.editorconfig
+/home/simone/projects/learningCS/type-system/obj/Debug/net8.0/type-system.AssemblyInfoInputs.cache
+/home/simone/projects/learningCS/type-system/obj/Debug/net8.0/type-system.AssemblyInfo.cs
+/home/simone/projects/learningCS/type-system/obj/Debug/net8.0/type-system.csproj.CoreCompileInputs.cache
+/home/simone/projects/learningCS/type-system/obj/Debug/net8.0/type-system.sourcelink.json
+/home/simone/projects/learningCS/type-system/obj/Debug/net8.0/type-system.dll
+/home/simone/projects/learningCS/type-system/obj/Debug/net8.0/refint/type-system.dll
+/home/simone/projects/learningCS/type-system/obj/Debug/net8.0/type-system.pdb
+/home/simone/projects/learningCS/type-system/obj/Debug/net8.0/type-system.genruntimeconfig.cache
+/home/simone/projects/learningCS/type-system/obj/Debug/net8.0/ref/type-system.dll
