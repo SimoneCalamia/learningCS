@@ -20,30 +20,14 @@
 // 	So in this case, for example, you want the hash codes to remain always the same, otherwise if the hash code of a key-value pair changes, then
 // 	the key supposed to lead to that value will result in another value;
 //
+// IMPORTANT:
+//  With records you can use positional parameters in primary constructor, which means you can have parameters in the class declaration. This is because the compiler
+//  automatically create a read-only property when a record is declared with a primary constructor with positional parameters. Thus creating an immutable object.
 
-public class NamedItem {
-
-    private string? _name;
-    private int _age = 25;
-    private string? _address = "Los Angeles";
-
-    static void Main() {
-
-        NamedItem NamedItem = new NamedItem();
-        NamedItem namedItem = NamedItem;
-
-        namedItem.Name = "Tondelaya";
-
-        Console.WriteLine($"{namedItem.Name} is {namedItem.Age} years old and lives in {namedItem.Address}\n");
-    }
-
-    public string? Name {
-        set { _name = value; }
-        get { return _name; }
-    }
-    public int Age => _age;
-    public string? Address {
-        set { _address = value; }
-        get { return _address; }
+class Program {
+    public static void Main() {
+        Console.WriteLine("Ciao come stai io sto bene e tu?");
+        Console.WriteLine("Devo andare a mangiare dai... ci becchiamo dopo e continuiamo a nerdare su sta roba :) ");
+        Console.WriteLine("Ciao come stai io sto bene e tu?");
     }
 }

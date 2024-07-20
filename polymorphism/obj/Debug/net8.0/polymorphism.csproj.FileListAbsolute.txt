@@ -1,0 +1,15 @@
+/home/simone/projects/learningCS/polymorphism/bin/Debug/net8.0/polymorphism
+/home/simone/projects/learningCS/polymorphism/bin/Debug/net8.0/polymorphism.deps.json
+/home/simone/projects/learningCS/polymorphism/bin/Debug/net8.0/polymorphism.runtimeconfig.json
+/home/simone/projects/learningCS/polymorphism/bin/Debug/net8.0/polymorphism.dll
+/home/simone/projects/learningCS/polymorphism/bin/Debug/net8.0/polymorphism.pdb
+/home/simone/projects/learningCS/polymorphism/obj/Debug/net8.0/polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+/home/simone/projects/learningCS/polymorphism/obj/Debug/net8.0/polymorphism.AssemblyInfoInputs.cache
+/home/simone/projects/learningCS/polymorphism/obj/Debug/net8.0/polymorphism.AssemblyInfo.cs
+/home/simone/projects/learningCS/polymorphism/obj/Debug/net8.0/polymorphism.csproj.CoreCompileInputs.cache
+/home/simone/projects/learningCS/polymorphism/obj/Debug/net8.0/polymorphism.sourcelink.json
+/home/simone/projects/learningCS/polymorphism/obj/Debug/net8.0/polymorphism.dll
+/home/simone/projects/learningCS/polymorphism/obj/Debug/net8.0/refint/polymorphism.dll
+/home/simone/projects/learningCS/polymorphism/obj/Debug/net8.0/polymorphism.pdb
+/home/simone/projects/learningCS/polymorphism/obj/Debug/net8.0/polymorphism.genruntimeconfig.cache
+/home/simone/projects/learningCS/polymorphism/obj/Debug/net8.0/ref/polymorphism.dll

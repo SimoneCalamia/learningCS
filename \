@@ -1,0 +1,4 @@
+﻿
+int flNumber = null;
+
+Console.WriteLine(flNumber.GetType());

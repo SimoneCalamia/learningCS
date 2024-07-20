@@ -12,3 +12,4 @@
 /home/simone/projects/learningCS/main-method/obj/Debug/net8.0/main-method.pdb
 /home/simone/projects/learningCS/main-method/obj/Debug/net8.0/main-method.genruntimeconfig.cache
 /home/simone/projects/learningCS/main-method/obj/Debug/net8.0/ref/main-method.dll
+/home/simone/projects/learningCS/main-method/obj/Debug/net8.0/main-method.sourcelink.json
